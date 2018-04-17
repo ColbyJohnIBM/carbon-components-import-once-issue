@@ -1,0 +1,5 @@
+@import '~carbon-components/scss/globals/scss/styles';
+
+.Header {
+  @include font-size('28');
+}
